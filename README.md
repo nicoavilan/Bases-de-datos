@@ -1,6 +1,6 @@
 # Bases-de-datos
 Algunas bases de datos que uso en clase.
 
-iris.csv 
+[1.] iris.csv 
 
-Star99999_raw.csv
+[2.] Star99999_raw.csv
